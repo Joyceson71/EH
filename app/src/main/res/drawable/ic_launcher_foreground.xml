@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cyber Shield Outer Outline -->
+    <path
+        android:pathData="M54,26 L76,34 C76,55 67,69 54,78 C41,69 32,55 32,34 Z"
+        android:fillColor="#101D24"
+        android:strokeColor="#00FF9C"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="round" />
+
+    <!-- Terminal Prompt Chevron > -->
+    <path
+        android:pathData="M43,46 L50,52 L43,58"
+        android:strokeColor="#00FF9C"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Terminal Cursor Underscore _ -->
+    <path
+        android:pathData="M54,58 L63,58"
+        android:strokeColor="#7B61FF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <!-- Top Node Accent -->
+    <path
+        android:pathData="M54,23 A3,3 0 1,1 54,29 A3,3 0 1,1 54,23"
+        android:fillColor="#00FF9C" />
+
+    <!-- Node Connector Lines -->
+    <path
+        android:pathData="M32,34 L25,40 M76,34 L83,40"
+        android:strokeColor="#7B61FF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M25,40 A2,2 0 1,1 25,44 A2,2 0 1,1 25,40"
+        android:fillColor="#7B61FF" />
+    <path
+        android:pathData="M83,40 A2,2 0 1,1 83,44 A2,2 0 1,1 83,40"
+        android:fillColor="#7B61FF" />
+</vector>

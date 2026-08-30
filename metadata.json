@@ -1,0 +1,6 @@
+{
+  "name": "HackPath",
+  "description": "A structured 120-day ethical hacking mastery platform with interactive missions, labs, skill tree graph, quizzes, progress analytics, and resource library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
